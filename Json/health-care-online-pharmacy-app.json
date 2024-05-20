@@ -5,7 +5,7 @@
                 "SiteUrl":"https://healthcareonlinepharmacy.com/",
                 "ButtonName":"Main Site",
                 "OrderNo":1,
-                "LogoImageUrl":"",
+                "LogoImageUrl":"https://healthcareonlinepharmacy.com/wp-content/uploads/2023/11/cropped-mainlogo.png",
                 "WhatsAppUrl":"whatsapp://send?phone=+8801618645364&text=Hello"
             },
             {
@@ -13,7 +13,7 @@
                 "SiteUrl":"https://healthcareonlinepharmacy.com/agent101/",
                 "ButtonName":"Agent 101",
                 "OrderNo":2,
-                "LogoImageUrl":"",
+                "LogoImageUrl":"https://healthcareonlinepharmacy.com/wp-content/uploads/2023/11/cropped-mainlogo.png",
                 "WhatsAppUrl":"whatsapp://send?phone=+8801618645364&text=Hello"
             }
     ]
