@@ -5,14 +5,16 @@
                 "SiteUrl":"https://healthcareonlinepharmacy.com/",
                 "ButtonName":"Main Site",
                 "OrderNo":1,
-                "LogoImageUrl":""
+                "LogoImageUrl":"",
+                "WhatsAppUrl":"whatsapp://send?phone=+8801618645364&text=Hello"
             },
             {
                 "SiteName":"Agent 101",
                 "SiteUrl":"https://healthcareonlinepharmacy.com/agent101/",
                 "ButtonName":"Agent 101",
                 "OrderNo":2,
-                "LogoImageUrl":""
+                "LogoImageUrl":"",
+                "WhatsAppUrl":"whatsapp://send?phone=+8801618645364&text=Hello"
             }
     ]
 }
